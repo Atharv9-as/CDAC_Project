@@ -1,0 +1,26 @@
+NEO - 6M :- 
+
+The NEO-6M GPS module, it comes with an external antenna.
+It provides location, speed, and time data.
+Accurate data - It provides real-time data including latitude, longitude, altitude, and speed.
+
+// performance => high performance , it can track upto 22 satellites on 50 channels
+
+It supports UART communication.
+
+
+Power supply: 3V to 5V
+Operating Temperature :- -40C to 85C
+
+It has four pins VCC, RX, TX, GND
+	VCC =>	5v
+	RX => TX pin uc 
+	TX => RX pin uc
+	GND => GND
+	
+Internal EEPROM: Retains configuration settings even after a power down.
+	
+How it works :-
+The internal ceramic antenna receives signals from GPS satellites.
+It determines its precise latitude, longitude, and altitude.
+It sends this data to a connected microcontroller via the UART (TX/RX) pins.

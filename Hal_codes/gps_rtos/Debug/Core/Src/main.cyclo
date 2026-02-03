@@ -1,0 +1,11 @@
+../Core/Src/main.c:71:8:NMEA_To_Decimal	3
+../Core/Src/main.c:85:6:GPS_Parse_And_Print	9
+../Core/Src/main.c:132:6:GPS_RX_Task	4
+../Core/Src/main.c:160:6:GPS_Parse_Task	2
+../Core/Src/main.c:178:5:main	1
+../Core/Src/main.c:256:6:SystemClock_Config	3
+../Core/Src/main.c:303:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:336:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:369:13:MX_GPIO_Init	1
+../Core/Src/main.c:395:6:StartDefaultTask	1
+../Core/Src/main.c:410:6:Error_Handler	1
